@@ -1,4 +1,5 @@
 # README
+Aplicacion web de Noblidream "Sueños Nobles" a Rails 7 y desarrollo de machine learning con ciencia de datos
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
